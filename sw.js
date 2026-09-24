@@ -1,5 +1,5 @@
 // Magnétik : fonctionnement hors connexion. Change VERSION à chaque mise à jour de l'app.
-const VERSION = "magnetik-v1";
+const VERSION = "magnetik-v2";
 const FICHIERS = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "icons/apple-touch-icon.png"];
 
 self.addEventListener("install", (e) => {
